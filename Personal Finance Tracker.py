@@ -11,7 +11,7 @@ def init_db():
     connection = psycopg2.connect(
         dbname ='Finance_tracker',
         user = 'postgres',
-        password = 'So@ph$ie%',
+        password = '*********',
         host = 'localhost',
         port = '5432'
     )
